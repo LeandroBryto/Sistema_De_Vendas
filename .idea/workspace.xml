@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/github/LeandroBryto/VendasApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/github/LeandroBryto/VendasApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/github/LeandroBryto/domain/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/github/LeandroBryto/domain/entity/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/github/LeandroBryto/domain/repositorio/Clientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/github/LeandroBryto/domain/repositorio/Clientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/meu_schema.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
